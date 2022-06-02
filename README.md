@@ -1,1 +1,1 @@
-# Alok-Rai
+Dice rolling simulator in Python Dice is a small cube that has 1 to 6 numbers on its sides which is used in games for providing random numbers. We will design a “Roll the dice” program to roll the dice using the random and Tkinter module. Project Prerequisites
